@@ -3,7 +3,7 @@
 <h2 align="center"> &lsaquo; Hi 👋, I'm Truong &frasl;	&rsaquo;</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <h3 align="center">	&lsaquo;I am a Front End Developer&frasl;	&rsaquo;</h3> -->
-<h3 padding-left= 100px align="center" color="#36BCF7FF"><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=........I'm+a+Font+End+Developer..."></h3>
+<h3 padding-left= 100px align="center" color="#36BCF7FF"><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=........I'm+a+Front+End+Developer..."></h3>
 
  ## 🌐️ Reach me at
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
